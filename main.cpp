@@ -15,7 +15,7 @@ Notes  : To run the code         1)  make
 #include <vector>
 #include <sstream>
 #include <unistd.h>
-#include <pthread.h>
+
 #include <stdio.h>
 #include <iostream>
 #include <fstream>
